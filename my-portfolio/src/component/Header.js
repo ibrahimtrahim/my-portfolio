@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faUser, faFileAlt, faBriefcase, faBlog, faEnvelope, faSun } from '@fortawesome/free-solid-svg-icons';
+import { faUser, faHome, faBriefcase, faBlog, faEnvelope, faSun } from '@fortawesome/free-solid-svg-icons';
 
 const Header = () => {
   return (
@@ -10,10 +10,9 @@ const Header = () => {
         <NavLink icon={faSun}/>
         <NavLink icon={faHome} label="Home" to="#" />
         <NavLink icon={faUser} label="About" to="#" />
-        <NavLink icon={faFileAlt} label="Resume" to="#" />
-        <NavLink icon={faBriefcase} label="Works" to="#" />
+        <NavLink icon={faBriefcase} label="Projects" to="#" />
         <NavLink icon={faEnvelope} label="Contact" to="#" />
-        <NavLink icon={faBlog} label="Blog" to="#" />
+        <NavLink icon={faBlog} label="Articles" to="#" />
         </ul>
       </nav>
     </header>
