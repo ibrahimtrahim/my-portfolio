@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const About = () => {
   return (
     <section className='max-w-xl max-h-[560px] text-white bg-dark-primary rounded-lg overflow-hidden py-10 px-10'>
