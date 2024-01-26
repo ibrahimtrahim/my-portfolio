@@ -3,11 +3,21 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
+import { BrowserRouter as Router } from 'react-router-dom';
+=======
+>>>>>>> cab5e66 (home)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+<<<<<<< HEAD
+    <Router>
+      <App />
+    </Router>
+=======
     <App />
+>>>>>>> cab5e66 (home)
   </React.StrictMode>
 );
 

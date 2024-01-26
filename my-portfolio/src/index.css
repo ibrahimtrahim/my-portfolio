@@ -6,5 +6,16 @@
 
 body {
     height: 100vh;
+<<<<<<< HEAD
+    background-color: black;
+  }
+  .switch-wrapper {
+    position: relative;
+  }
+  
+  .switch-wrapper > div {
+    position: absolute;
+=======
     background-color: #161616;
+>>>>>>> cab5e66 (home)
   }

@@ -13,7 +13,11 @@ module.exports = {
       },
       spacing: {
         '72px': '72px',
+<<<<<<< HEAD
+        '128': '35rem'
+=======
         '128': '73rem'
+>>>>>>> cab5e66 (home)
       }
     },
   },

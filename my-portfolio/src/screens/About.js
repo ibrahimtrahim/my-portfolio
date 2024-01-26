@@ -1,11 +1,19 @@
 import React from 'react';
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> cab5e66 (home)
 const About = () => {
   return (
     <section className='max-w-xl max-h-[560px] text-white bg-dark-primary rounded-lg overflow-hidden py-10 px-10'>
         <h2 className='font-semibold text-xl font-lekton text-white mb-4'>About Me</h2>
         <p className='font-semibold text-base font-lekton text-txt-clr mb-2'>
+<<<<<<< HEAD
+        Hello! 👋 I’m Brahim Trahim.
+=======
         Hello! I’m Brahim Trahim.
+>>>>>>> cab5e66 (home)
         </p>
         <p className='font-normal text-base font-lekton text-txt-clr mb-2'>
         Frond-end developer from MA, AGADIR. I have rich experience in React js, 
