@@ -7,7 +7,7 @@ import AllRoutes from './routes/AllRoutes';
 
 function App() {
   return (
-    <div className="flex h-screen justify-center items-center">
+    <div className="flex bg-black h-screen justify-center items-center">
       <AnimCursor />
       <Header />
       <Hero />

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 
 const ProjectCard = (props) => {
-    const { logo, title, description, linkText, link, img } = props;
+    const {title, link, img } = props;
 
   return (
     <div class="flex group relative overflow-hidden border-2 border-white/50 text-gray-700 bg-white m-2 rounded-xl w-60 h-60">

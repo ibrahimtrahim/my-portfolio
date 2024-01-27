@@ -4,10 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    height: 100vh;
-    background-color: black;
-  }
   .switch-wrapper {
     position: relative;
   }
@@ -15,3 +11,4 @@ body {
   .switch-wrapper > div {
     position: absolute;
   }
+ 
